@@ -5,6 +5,6 @@ function setup() {
 }
 
 function draw() {
-  background(220);
+  background(210);
   text('github 배포 테스트', width/2, height/2);
 }
